@@ -1,0 +1,22 @@
+.container{
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    
+}
+.descricao{
+    width: auto;
+    margin-left: 190px;
+    padding: 30px;
+}
+.descricao h1{
+    font-size: 80px;
+}
+.descricao p{
+    font-size: 40px;
+}
+img{
+    width: 500px;
+    margin-right: 120px;
+}
